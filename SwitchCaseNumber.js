@@ -18,15 +18,15 @@ switch (dayOfTheWeek){
 	break;
 
 	case "Friday":
-	console.log("Today is Friday")
+	console.log("Today is Friday.")
 	break;
 
 	case "Saturday":
-	console.log("Today is Saturday")
+	console.log("Today is Saturday.")
 	break;
 
 	case "Sunday":
-	console.log("Today is Sunday")
+	console.log("Today is Sunday.")
 	break;
 
 	default:
